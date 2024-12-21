@@ -1,0 +1,3 @@
+displayName = TRand
+author = BoschingMachine
+version = 0.1
